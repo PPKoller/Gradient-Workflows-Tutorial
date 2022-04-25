@@ -135,3 +135,4 @@ jobs:
           --result-dir=/outputs/generatedCarsPretrained
         ls "-aFlR" /outputs
       image: tensorflow/tensorflow:1.14.0-gpu-py3
+      
